@@ -1,6 +1,7 @@
 # Theremin Controller (hand-tracking)
 
-Hand-tracking theremin using MediaPipe Hands, OpenCV, and sounddevice.
+Hand-tracking theremin using MediaPipe Hands, OpenCV, and sounddevice.  
+
 ![image](https://github.com/otmojo/theremin/blob/main/adjusting-otmojo.gif)
 
 ## Requirements
