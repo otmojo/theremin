@@ -31,6 +31,6 @@ Esc to quit.
 - Right hand X controls pitch (smoothed)
 - Left hand Y controls volume (with threshold)
 
-## Help
-If you have any suggestions or questions, please don't hesitate to connect:
+## Contact
+If you have any suggestions or questions, I’d be happy to hear from you:
 - E-mail：ths50618@ths.hal.ac.jp
